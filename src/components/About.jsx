@@ -33,11 +33,11 @@ export default function About({ id }) {
           
           <div className="grid grid-cols-2 gap-6 mb-8">
             <div className="glass-card hover:-translate-y-2 transition-transform duration-300">
-              <h3 className="text-accent text-3xl font-bold mb-2">3+</h3>
+              <h3 className="text-accent text-3xl font-bold mb-2">1+</h3>
               <p className="text-slate-400 font-medium">Years Experience</p>
             </div>
             <div className="glass-card hover:-translate-y-2 transition-transform duration-300">
-              <h3 className="text-accent text-3xl font-bold mb-2">20+</h3>
+              <h3 className="text-accent text-3xl font-bold mb-2">5+</h3>
               <p className="text-slate-400 font-medium">Projects Completed</p>
             </div>
           </div>
