@@ -49,7 +49,7 @@ export default function Hero({ id }) {
             View My Work
           </a>
           <a
-            href="/resume.pdf"
+            href="/Nitesh-Sharma.png
             target="_blank"
             className="px-6 py-3 rounded-lg border border-slate-600 hover:border-accent hover:text-accent transition-colors duration-300 font-medium bg-dark/50 backdrop-blur"
           >
